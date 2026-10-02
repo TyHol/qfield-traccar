@@ -1,0 +1,7 @@
+[general]
+name=Traccar
+description=Keep track of devices registered on Traccar servers
+author=OPENGIS.ch
+icon=icon.svg
+version=1.0
+homepage=https://www.opengis.ch/
