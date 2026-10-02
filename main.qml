@@ -22,7 +22,7 @@ Item {
     id: settings
     category: "traccar"
 
-    property string url: "http://151.145.202.54:8082/api";
+    property string url: "";
     property string accountEmail: "";
     property string accountPassword: "";
   }
