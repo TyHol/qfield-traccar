@@ -203,7 +203,7 @@ Item {
           }
           deviceDetails = dds;
           deviceDetailsChanged();
-          refreshimer.restart();
+          refreshTimer.restart();
         }
       }
     };
