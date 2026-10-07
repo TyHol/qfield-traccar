@@ -131,7 +131,7 @@ Item {
   }
 
   Timer {
-    id: refreshimer
+    id: refreshTimer
     interval: 2000
     repeat: false
 
